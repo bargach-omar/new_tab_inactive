@@ -17,7 +17,6 @@
    },
    "manifest_version": 2,
    "name": "callTo",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8iOsaFNMgtWbkswr0TgZiVfXURKdaZaeOYOU9T4DqvkL2p5s773ikRrBvCZT8jAa5CVhJIM+XOSIaBe5XMLRBRe9+DRhmeeZ59jHPnQw/0OLrIBG4JaAVfvZ0AqLdyL1MqRsJFUL0etZhB71ZghpF341QClMUD/GsnpnowqP+cAUYlaWBCi7dgCBxLs3qfaAMRkuZpO5stugC0C/ZhEOKyDi4cIXVlS/dV+/47guABZ40uIKFnTbMq0DWbKzDTEGwAFWdguSPoA7BJnxesXdl+GuZBHHh7UxddH840RE9aWFvaVVRWa3oCevZUWWuBnUFdQvXzStFRwoA2i7PQ7iGwIDAQAB",
    "permissions": [ "management", "contextMenus", "notifications", "storage", "tabs", "webNavigation", "https://app.ringover.com/*", "https://lba-office.fr/*"],
    "version": "0.1"
 }
